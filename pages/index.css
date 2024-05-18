@@ -7,25 +7,25 @@
   line-height: 20px;
 }
 
-/* <uniquifier>: Use a unique and descriptive class name
-   <weight>: Use a value from 100 to 900
+/*<uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 100 to 900*/
 
-.inter-<uniquifier > {
+.inter-uniquifier > {
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400;
   font-style: normal;
   font-variation-settings: "slnt" 0;
 }
 
-/* <uniquifier>: Use a unique and descriptive class name
-   <weight>: Use a value from 100 to 900
+/*<uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 100 to 900*/
 
-.noto-sans-<uniquifier > {
+.noto-sans-uniquifier > {
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 400;
   font-style: normal;
   font-variation-settings: "wdth" 100;
-}*/
+}
 
 .inter-regular {
   font-weight: 400;
