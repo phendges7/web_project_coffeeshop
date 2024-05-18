@@ -10,7 +10,7 @@
 /*<uniquifier>: Use a unique and descriptive class name
 <weight>: Use a value from 100 to 900*/
 
-.inter-uniquifier > {
+.inter-uniquifier {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
@@ -20,7 +20,7 @@
 /*<uniquifier>: Use a unique and descriptive class name
 <weight>: Use a value from 100 to 900*/
 
-.noto-sans-uniquifier > {
+.noto-sans-uniquifier {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
