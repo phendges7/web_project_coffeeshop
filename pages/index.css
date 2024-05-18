@@ -11,7 +11,8 @@
 <weight>: Use a value from 100 to 900*/
 
 .inter-uniquifier {
-  font-optical-sizing: auto;
+  /*font-optical-sizing: auto;
+  - Nao sei pq o validador nao aceita essa propriedade... MDN diz que existe o valor AUTO nessa propriedade*/
   font-weight: 400;
   font-style: normal;
   font-variation-settings: "slnt" 0;
@@ -21,7 +22,8 @@
 <weight>: Use a value from 100 to 900*/
 
 .noto-sans-uniquifier {
-  font-optical-sizing: auto;
+  /*font-optical-sizing: auto;
+  - Nao sei pq o validador nao aceita essa propriedade... MDN diz que existe o valor AUTO nessa propriedade*/
   font-weight: 400;
   font-style: normal;
   font-variation-settings: "wdth" 100;
