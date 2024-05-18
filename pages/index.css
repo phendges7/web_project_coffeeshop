@@ -1,0 +1,50 @@
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: auto;
+  font-family: "Inter", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+/* <uniquifier>: Use a unique and descriptive class name
+   <weight>: Use a value from 100 to 900
+
+.inter-<uniquifier > {
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings: "slnt" 0;
+}
+
+/* <uniquifier>: Use a unique and descriptive class name
+   <weight>: Use a value from 100 to 900
+
+.noto-sans-<uniquifier > {
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}*/
+
+.inter-regular {
+  font-weight: 400;
+}
+
+.inter-medium {
+  font-weight: 500;
+}
+
+.inter-bold {
+  font-weight: 700;
+}
+
+.noto-regular {
+  font-weight: 400;
+  font-style: normal;
+}
+
+.noto-italic {
+  font-weight: 400;
+  font-style: italic;
+}
