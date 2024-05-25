@@ -24,9 +24,21 @@
 
 ## \* index.html: Contém a estrutura HTML do site.
 
-## \* index.css: Contém os estilos específicos da página inicial.
+## \* index.css: Contém os estilos específicos de cada bloco da página inicial.
 
-## \* normalize.css: Um arquivo CSS para normalizar estilos entre diferentes navegadores.
+### \* normalize.css: Um arquivo CSS para normalizar estilos entre diferentes navegadores.
+
+### \* page.css: Um arquivo CSS para estilos globais.
+
+### \* header.css: Um arquivo CSS para estilos do bloco CABECALHO e dos elementos filhos.
+
+### \* nav.css: Um arquivo CSS para estilos do bloco NAV e dos elementos filhos.
+
+### \* recipes.css: Um arquivo CSS para estilos do bloco RECEITAS e dos elementos filhos.
+
+### \* reservation.css: Um arquivo CSS para estilos do bloco RESERVAS e dos elementos filhos.
+
+### \* footer.css: Um arquivo CSS para estilos do bloco RODAPE e dos elementos filhos.
 
 ## \* favicon.ico: Ícone do site.
 
@@ -35,8 +47,6 @@
 # Dependências
 
 ## O projeto utiliza a fonte Inter e Noto Serif do Google Fonts.
-
-## normalize.css é usado para garantir consistência de estilos entre diferentes navegadores.
 
 # Autor
 
