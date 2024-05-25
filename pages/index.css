@@ -250,7 +250,7 @@
   opacity: 70%;
 }
 
-.reservation__label--checkbox {
+.reservation__label_checkbox {
   display: flex;
   align-items: center;
 }
