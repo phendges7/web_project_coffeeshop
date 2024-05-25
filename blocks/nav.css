@@ -1,0 +1,35 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 80px 0 30px;
+}
+
+.nav__logo {
+  position: relative;
+  width: 105px;
+  height: 39px;
+}
+
+.nav__links {
+  display: flex;
+  column-gap: 20px;
+  list-style-type: none;
+  padding: 0;
+  margin: 8px 0 0;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.nav__link {
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav__link:hover {
+  color: #2f80ed;
+  text-decoration: underline;
+  font-weight: bold;
+}
