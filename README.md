@@ -56,6 +56,8 @@
 
 ## Este projeto foi desenvolvido para demonstrar a estrutura de um site simples de um café fictício, utilizando boas práticas de desenvolvimento web e a metodologia BEM para nomenclatura de classes CSS.
 
+##Link to GitHub Pages: https://phendges7.github.io/web_project_library/
+
 # Licença
 
 ## Este projeto é de uso livre para fins educacionais e pessoais.
